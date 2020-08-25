@@ -1,0 +1,45 @@
+h1 {
+    border: solid silver;
+    margin-right: 550px;
+    width: 200;
+  }
+  ul li{
+    display: inline;
+    margin-left: 2px;
+    padding: 5px;
+  border: 15px solid skyblue;
+  margin: 50px 50px;
+  
+  }
+  header{
+    background-color: whitesmoke;
+    height: 100px;
+  }
+  main{
+    background-color: wheat;
+  }
+  
+  p {
+    color: blue;
+  }
+  footer{
+    font-display: inherit;
+    background-color: brown;
+    text-align: center;
+  }
+  
+  ima{
+    height: 50px;
+    float: initial;
+  }
+  
+  .image-2{
+    width: 600px;
+    height: 100px;
+  }
+  #p1{
+    color: green;
+  }
+  .p0{
+   color: gray;
+  }
